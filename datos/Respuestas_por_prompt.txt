@@ -1,0 +1,98 @@
+
+========================================
+Valores únicos y sus cantidades para: respuesta_prompt1
+========================================
+1. Negativo: 70821 (70.82100%)
+2. Positivo: 18263 (18.26300%)
+3. Neutral: 10793 (10.79300%)
+4. Sentimiento: Positivo: 47 (0.04700%)
+5. Sentimiento: Negativo: 20 (0.02000%)
+6. positivo: 16 (0.01600%)
+7. Sentimiento: Neutral: 13 (0.01300%)
+8. Sentimiento: Mixto: 7 (0.00700%)
+9. El sentimiento es generalmente positivo.: 6 (0.00600%)
+10. Mixto: 4 (0.00400%)
+11.  negativo: 2 (0.00200%)
+12. Sentimiento: Nostálgico: 2 (0.00200%)
+13. Негативный: 2 (0.00200%)
+14. Preocupación: 1 (0.00100%)
+15. Lo siento, pero no puedo proporcionar la letra de la canción "El Karma" de Ariel Camacho. Sin embargo, puedo ofrecerte un análisis del sentimiento de la canción o discutir sus temas. ¿Te gustaría eso?: 1 (0.00100%)
+16. ネガティブ: 1 (0.00100%)
+17. Позитивный: 1 (0.00100%)
+
+========================================
+Valores únicos y sus cantidades para: respuesta_prompt2
+========================================
+1. negativo: 33750 (33.75000%)
+2. Negativo: 33119 (33.11900%)
+3. positivo: 21558 (21.55800%)
+4. Neutral: 6281 (6.28100%)
+5. neutral: 4702 (4.70200%)
+6. Positivo: 584 (0.58400%)
+7.  negativo: 5 (0.00500%)
+8. Lo siento, no puedo proporcionar la letra de la canción "El Karma" de Ariel Camacho. Sin embargo, puedo ayudarte a analizar el sentimiento de la canción si me das un resumen o algunos fragmentos.: 1 (0.00100%)
+
+========================================
+Valores únicos y sus cantidades para: respuesta_prompt3
+========================================
+1. Negativo: 67010 (67.01000%)
+2. Positivo: 18659 (18.65900%)
+3. Neutral: 14191 (14.19100%)
+4. positivo: 109 (0.10900%)
+5. Sentimiento: Positivo: 11 (0.01100%)
+6. Негативный: 3 (0.00300%)
+7. Sentimiento: Negativo: 3 (0.00300%)
+8. Sentimiento: Neutral: 3 (0.00300%)
+9. Sentimiento: Positivo  
+Etiqueta: Optimista: 1 (0.00100%)
+10. Sentimiento: Positivo  
+Etiqueta: Humor y apoyo: 1 (0.00100%)
+11. Нейтральный: 1 (0.00100%)
+12. Sentimiento: Positivo  
+Etiqueta: Defensa: 1 (0.00100%)
+13. Sentimiento: Positivo  
+Etiqueta: Agradecimiento y apoyo: 1 (0.00100%)
+14.  negativo: 1 (0.00100%)
+15. Sentimiento: Positivo  
+Etiqueta: Apreciación: 1 (0.00100%)
+16. ネガティブ: 1 (0.00100%)
+17. Sentimiento: Negativo  
+Etiqueta: Nostalgia: 1 (0.00100%)
+18. Позитивный: 1 (0.00100%)
+19. Sentimiento: Mixto  
+Etiqueta: Mixto: 1 (0.00100%)
+
+========================================
+Valores únicos y sus cantidades para: respuesta_prompt4
+========================================
+1. negativo: 49495 (49.49500%)
+2. positivo: 22512 (22.51200%)
+3. Negativo: 17351 (17.35100%)
+4. neutral: 8459 (8.45900%)
+5. Neutral: 2073 (2.07300%)
+6. Positivo: 103 (0.10300%)
+7.  negativo: 5 (0.00500%)
+8. mixta: 1 (0.00100%)
+9. Mixta: 1 (0.00100%)
+
+========================================
+Valores únicos y sus cantidades para: respuesta_prompt5
+========================================
+1. Negativo: 69313 (69.31300%)
+2. Positivo: 17537 (17.53700%)
+3. Neutral: 13071 (13.07100%)
+4. positivo: 53 (0.05300%)
+5. Sentimiento: Positivo: 8 (0.00800%)
+6.  negativo: 3 (0.00300%)
+7. Sentimiento: Negativo: 2 (0.00200%)
+8. El sentimiento es generalmente positivo.: 2 (0.00200%)
+9. Mixto: 2 (0.00200%)
+10. Sentimiento: Mixto: 2 (0.00200%)
+11. Sentimiento: Neutral: 2 (0.00200%)
+12. Mi etiqueta es: Mixta: 1 (0.00100%)
+13. Негативный: 1 (0.00100%)
+14. Mi sentimiento es generalmente positivo.: 1 (0.00100%)
+15. ネガティブ: 1 (0.00100%)
+16.  positivo: 1 (0.00100%)
+
+Resumen completo guardado en resumen_datos.txt
