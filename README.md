@@ -21,5 +21,5 @@ Contains the statistical and exploratory analysis of the prompts, highlighting:
 - **Vectorization:** Process of transforming prompts into numerical vectors.
 - **Additional results:** Analysis in Wolfram to obtain results from the Pearson Chi-squared test.
 
----
-This README provides an overview of the project's structure and methodologies used at each stage. For more details, it is recommended to explore each file in the order presented here.
+### Note
+This project includes essential parts of the code that capture the key steps of the process. However, files such as processed CSVs are not available in this repository.
